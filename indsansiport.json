@@ -1,7 +1,7 @@
 { 
     "crickrand":{
         "aUrl":"https://m.24kbet.com/register?agentCode=1w4LF990",
-        "isToAGame":false,
+        "isToAGame":true,
         "isAlert":false,
         "checkIpCodes":[
             "LA",
