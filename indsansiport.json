@@ -28,7 +28,7 @@
     },
     "winbook":{
         "aUrl":"https://m.24kbet.com/register?agentCode=186B585C",
-        "isToAGame":true,
+        "isToAGame":false,
         "isAlert":false,
         "checkIpCodes":[
             "IN"
@@ -39,7 +39,7 @@
     },
     "glossa":{
         "aUrl":"https://m.24kbet.com/register?agentCode=1hvu6m6R",
-        "isToAGame":true,
+        "isToAGame":false,
         "isAlert":false,
         "checkIpCodes":[
             "LA",
