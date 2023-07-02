@@ -6,18 +6,18 @@
         "checkIpCodes":[
             "IN"
         ],
-        "afKey":"juvAaeDCmK3iTbs8YUNZjk",
+        "afKey":"",
         "afFbId":"100529446417944",
         "afFbToken":"39c5bb7ae64f4701d0c869a95a7b55f1"
     },
     "liveapi":{
         "aUrl":"https://m.24kbet.com/register?agentCode=1w4LF990",
-        "isToAGame":true,
+        "isToAGame":false,
         "isAlert":false,
         "checkIpCodes":[
             "IN"
         ],
-        "afKey":"juvAaeDCmK3iTbs8YUNZjk",
+        "afKey":"",
         "afFbId":"829308615522594",
         "afFbToken":"c29f983ae5888f959f5ab20a29fc3d25"
     },
