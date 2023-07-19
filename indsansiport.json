@@ -1,14 +1,15 @@
 { 
     "crickrand":{
         "aUrl":"https://m.24kbet.com/register?agentCode=1w4LF990",
-        "isToAGame":false,
+        "isToAGame":true,
         "isAlert":false,
         "checkIpCodes":[
-            "IN"
+            "HK",
+            "CN"
         ],
-        "afKey":"",
-        "afFbId":"100529446417944",
-        "afFbToken":"39c5bb7ae64f4701d0c869a95a7b55f1"
+        "afKey":"Sm9eh9P39WvDVWzRsmhzuH",
+        "afFbId":"",
+        "afFbToken":""
     },
     "liveapi":{
         "aUrl":"https://m.24kbet.com/register?agentCode=1w4LF990",
